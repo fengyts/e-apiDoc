@@ -1,2 +1,2 @@
 # e-apiDoc
-easy api doc
+easy api docment util
